@@ -1,0 +1,5 @@
+{
+  "TronscanSettings": {
+    "ApiBaseUrl": "https://apilist.tronscan.org"
+  }
+}

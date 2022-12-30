@@ -1,0 +1,5 @@
+{
+  "EvmosEVMSettings": {
+    "ApiBaseUrl": "https://evm.evmos.org/"
+  }
+}
